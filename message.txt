@@ -1,0 +1,80 @@
+13
+2
+0
+1
+0
+1
+1st PM
+PM to bocchi from krozo
+1
+1
+0
+0
+2nd PM
+PM to Krozo From Krozo
+2
+1
+0
+2
+3rd PM
+Pm to ford from krozo
+3
+3
+0
+0
+4th annoucement 
+announcement to everyone
+4
+2
+0
+0
+5th message
+personal connection from krozo to bocchi and ford
+5
+3
+0
+0
+Replied to "4th annoucement "
+6th message annoucement from krozo
+6
+1
+0
+0
+Replied to "2nd PM"
+7th message from krozo to krozo
+7
+1
+0
+1
+8th message PM
+from krozo to bocchi from profile
+8
+1
+2
+0
+9th message
+from ford to krozo PM
+9
+1
+2
+1
+10th message
+from ford to bocchi PM
+10
+2
+2
+0
+11th message
+from ford to krozo PC
+11
+2
+2
+2
+12th message
+from ford to ford PC
+12
+3
+2
+2
+12th message
+from ford to annoucement
